@@ -23,7 +23,7 @@ myfunctions();
 
 echo "<br>";
 echo "<br>";
-
+// 28/11/2024
 // super globals to be considered
 
 // $GLOBALS
@@ -69,7 +69,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST'){
     echo "<h2> Good Afternoon $first_name $last_name </h2>";
 
     // <script>malicious code displayed as plain text</script>
-
+    // 29/11/2024
+    github.com/udontech/form-validation
 }
 
 ?>
